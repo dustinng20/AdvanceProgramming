@@ -1,0 +1,10 @@
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.exe
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.deps.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.runtimeconfig.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.runtimeconfig.dev.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\bin\Debug\netcoreapp3.0\Encapsulation.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.AssemblyInfoInputs.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.AssemblyInfo.cs
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Encapsulation\obj\Debug\netcoreapp3.0\Encapsulation.pdb

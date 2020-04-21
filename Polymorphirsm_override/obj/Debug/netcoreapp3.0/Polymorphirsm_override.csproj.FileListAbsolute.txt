@@ -1,0 +1,10 @@
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\bin\Debug\netcoreapp3.0\Polymorphirsm_override.exe
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\bin\Debug\netcoreapp3.0\Polymorphirsm_override.deps.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\bin\Debug\netcoreapp3.0\Polymorphirsm_override.runtimeconfig.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\bin\Debug\netcoreapp3.0\Polymorphirsm_override.runtimeconfig.dev.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\bin\Debug\netcoreapp3.0\Polymorphirsm_override.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\bin\Debug\netcoreapp3.0\Polymorphirsm_override.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\obj\Debug\netcoreapp3.0\Polymorphirsm_override.AssemblyInfoInputs.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\obj\Debug\netcoreapp3.0\Polymorphirsm_override.AssemblyInfo.cs
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\obj\Debug\netcoreapp3.0\Polymorphirsm_override.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphirsm_override\obj\Debug\netcoreapp3.0\Polymorphirsm_override.pdb

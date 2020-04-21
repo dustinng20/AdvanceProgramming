@@ -1,0 +1,11 @@
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\bin\Debug\netcoreapp3.0\Dynamic_Polymor.exe
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\bin\Debug\netcoreapp3.0\Dynamic_Polymor.deps.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\bin\Debug\netcoreapp3.0\Dynamic_Polymor.runtimeconfig.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\bin\Debug\netcoreapp3.0\Dynamic_Polymor.runtimeconfig.dev.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\bin\Debug\netcoreapp3.0\Dynamic_Polymor.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\bin\Debug\netcoreapp3.0\Dynamic_Polymor.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\obj\Debug\netcoreapp3.0\Dynamic_Polymor.AssemblyInfoInputs.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\obj\Debug\netcoreapp3.0\Dynamic_Polymor.AssemblyInfo.cs
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\obj\Debug\netcoreapp3.0\Dynamic_Polymor.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\obj\Debug\netcoreapp3.0\Dynamic_Polymor.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Dynamic_Polymor\obj\Debug\netcoreapp3.0\Dynamic_Polymor.csprojAssemblyReference.cache

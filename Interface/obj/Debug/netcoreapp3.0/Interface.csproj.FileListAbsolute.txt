@@ -1,0 +1,11 @@
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\bin\Debug\netcoreapp3.0\Interface.exe
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\bin\Debug\netcoreapp3.0\Interface.deps.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\bin\Debug\netcoreapp3.0\Interface.runtimeconfig.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\bin\Debug\netcoreapp3.0\Interface.runtimeconfig.dev.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\bin\Debug\netcoreapp3.0\Interface.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\bin\Debug\netcoreapp3.0\Interface.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\obj\Debug\netcoreapp3.0\Interface.csprojAssemblyReference.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\obj\Debug\netcoreapp3.0\Interface.AssemblyInfoInputs.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\obj\Debug\netcoreapp3.0\Interface.AssemblyInfo.cs
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\obj\Debug\netcoreapp3.0\Interface.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Interface\obj\Debug\netcoreapp3.0\Interface.pdb

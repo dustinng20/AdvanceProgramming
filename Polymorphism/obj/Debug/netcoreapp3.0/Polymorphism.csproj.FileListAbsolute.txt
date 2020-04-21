@@ -1,0 +1,11 @@
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\bin\Debug\netcoreapp3.0\Polymorphism.exe
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\bin\Debug\netcoreapp3.0\Polymorphism.deps.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\bin\Debug\netcoreapp3.0\Polymorphism.runtimeconfig.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\bin\Debug\netcoreapp3.0\Polymorphism.runtimeconfig.dev.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\bin\Debug\netcoreapp3.0\Polymorphism.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\bin\Debug\netcoreapp3.0\Polymorphism.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\obj\Debug\netcoreapp3.0\Polymorphism.csprojAssemblyReference.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\obj\Debug\netcoreapp3.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\obj\Debug\netcoreapp3.0\Polymorphism.AssemblyInfo.cs
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\obj\Debug\netcoreapp3.0\Polymorphism.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Polymorphism\obj\Debug\netcoreapp3.0\Polymorphism.pdb

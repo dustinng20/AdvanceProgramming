@@ -1,0 +1,11 @@
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\bin\Debug\netcoreapp3.0\Abstract.exe
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\bin\Debug\netcoreapp3.0\Abstract.deps.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\bin\Debug\netcoreapp3.0\Abstract.runtimeconfig.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\bin\Debug\netcoreapp3.0\Abstract.runtimeconfig.dev.json
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\bin\Debug\netcoreapp3.0\Abstract.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\bin\Debug\netcoreapp3.0\Abstract.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\obj\Debug\netcoreapp3.0\Abstract.AssemblyInfoInputs.cache
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\obj\Debug\netcoreapp3.0\Abstract.AssemblyInfo.cs
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\obj\Debug\netcoreapp3.0\Abstract.dll
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\obj\Debug\netcoreapp3.0\Abstract.pdb
+C:\Users\DELL.DUNGFPT\source\repos\OOP.Asm\Abstract\obj\Debug\netcoreapp3.0\Abstract.csprojAssemblyReference.cache
